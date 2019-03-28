@@ -4,8 +4,8 @@ alfred-password
 
 预览
 ---
-![screenshot](https://github.com/xiaomao361/alfred-password/master/screenshot.gif)
+![screenshot](https://github.com/xiaomao361/alfred-password/blob/master/screenshot.gif)
 
 下载
 ---
-[点击下载]()
+[点击下载](https://github.com/xiaomao361/alfred-password/releases/tag/master)
